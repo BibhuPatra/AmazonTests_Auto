@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-12T22:40:06 IST" name="Default suite" finished-at="2021-08-12T22:40:15 IST" duration-ms="8731">
+    <groups>
+    </groups>
+    <test started-at="2021-08-12T22:40:06 IST" name="Default test" finished-at="2021-08-12T22:40:15 IST" duration-ms="8731">
+      <class name="OrderAction">
+        <test-method is-config="true" signature="OrderHover()[pri:0, instance:OrderAction@6babf3bf]" started-at="2021-08-12T22:40:06 IST" name="OrderHover" finished-at="2021-08-12T22:40:11 IST" duration-ms="4907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderHover -->
+        <test-method signature="Demo()[pri:1, instance:OrderAction@6babf3bf]" started-at="2021-08-12T22:40:11 IST" name="Demo" finished-at="2021-08-12T22:40:13 IST" duration-ms="1919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="SignIn()[pri:2, instance:OrderAction@6babf3bf]" started-at="2021-08-12T22:40:13 IST" name="SignIn" finished-at="2021-08-12T22:40:15 IST" duration-ms="1778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+      </class> <!-- OrderAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
